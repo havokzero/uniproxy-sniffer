@@ -1,0 +1,4 @@
+requests
+pyshark
+colorama
+mmh3
